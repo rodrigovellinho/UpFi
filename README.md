@@ -1,11 +1,11 @@
 <h3 align="center">
- UpFi
+Bootcamp Ignite Rocketseat - Desafio 08 - Upload de Imagens
 </h3>
 
 ## :rocket: 
 
 <p align="center">
-  <img src="" alt="UpFi">
+  <img src="https://github.com/rodrigovellinho/UpFi/blob/master/public/cover.jpg?raw=true" alt="UpFi">
 </p>
 
 Essa será uma aplicação onde o principal objetivo é adicionar trechos de código para que a aplicação de upload de imagens funcione corretamente.
