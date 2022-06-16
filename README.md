@@ -14,7 +14,6 @@ Funcionalidades implementadas:
 - Infinite Queries e Mutations com React Query;
 - Envio de formulário com React Hook Form;
 - Exibição de Modal e Toast com Chakra UI;
-- Entre outros.
 
 ## :wrench: Instalação e uso
 
