@@ -40,8 +40,8 @@ yarn dev
 - **[React Hook Forms](https://react-hook-form.com/)**
 - **[YUP](https://github.com/jquense/yup)**
 - **[Axios](https://axios-http.com/docs/intro)**
-- **[FaunaDB](https://fauna.com/)**
-- 
+- **[Fauna DB](https://fauna.com/)**
+- **[Chakra UI](https://chakra-ui.com/)**
 ---
 
 Feito por [Rodrigo Kloeckner](https://github.com/rodrigovellinho)
